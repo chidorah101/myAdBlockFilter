@@ -1,0 +1,35 @@
+google.com##div[data-lhcontainer]:has-text("AI Overview")
+google.com##div[data-initq]
+google.com##div[data-hveid]:has-text("People also search for")
+google.com##div[role="listitem"]:has-text("AI Mode")
+google.com##div[role="listitem"]:has-text("Short videos")
+google.com##div[role="listitem"]:has-text("Shopping")
+google.com##div[data-elevated-container-view-type="timely_bump"]
+google.com##button[aria-label="Try Gemini"]
+google.com##a[aria-label="Search Labs"]
+google.com##header button:has-text("Upgrade")
+google.com##div[data-rpos]:has(a[href*="tiktok.com"])
+google.com##div#rcnt>div:has-text("AI Overview")
+brave.com###submit-llm-button
+brave.com###llm-snippet
+brave.com##div[data-type="ad"]
+brave.com###search-elsewhere
+brave.com###related-queries
+brave.com###faq
+brave.com##div.snippet:has(a[href*="tiktok.com"])
+youtube.com##ytm-rich-section-renderer
+youtube.com##ytd-rich-shelf-renderer:has-text("Playables")
+youtube.com##ytd-rich-shelf-renderer[is-shorts]
+youtube.com##yt-slimline-survey-view-model
+youtube.com##ytd-talk-to-recs-flow-renderer
+reddit.com##recent-posts
+reddit.com###advertise-button
+reddit.com##shreddit-dynamic-ad-link
+facebook.com##div[data-pagelet*="FeedUnit"]:has-text(/People you may know|Suggested for you|Sponsored|Reels and short videos|Reels|Your group suggestions/)
+facebook.com##div[data-pagelet*="FeedUnit"]:has([data-ad-rendering-role="profile_name"] div[role="button"] > span)
+facebook.com##[data-pagelet="Stories"]
+facebook.com##a:has-text("Meta AI")
+facebook.com##a[aria-label="Reels"]
+myanimelist.net##article:has(div[class*="bookstores-recommend-plugin"])
+myanimelist.net##div[class*="fxcbar"]
+myanimelist.net##div[class*="nvwtus"]
